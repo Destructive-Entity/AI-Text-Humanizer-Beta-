@@ -4,9 +4,6 @@
 
 This is a simple, client-side tool built with HTML, CSS, and JavaScript designed to help users identify and replace common phrases often found in AI-generated text, making it sound more natural and less robotic. It provides interactive suggestions that the user can review and approve before applying.
 
-![Image of Humanizer](https://github.com/user-attachments/assets/7d907345-a50f-47b7-a619-df2eecf752af)
-
-
 ---
 
 ## Key Features
