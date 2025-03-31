@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/783a192c-70f8-4b5b-9a58-194cc7c88498)# Interactive AI Text Humanizer (Browser-Based)
 
-**Access directly from (Here)[https://destructive-entity.github.io/AI-Text-Humanizer-Beta-/]**
+**Access directly from [Here](https://destructive-entity.github.io/AI-Text-Humanizer-Beta-/)**
 
 ![GitHub Icon](https://img.shields.io/badge/Created%20By-Destructive--Entity-4f46e5?style=for-the-badge&logo=github)
 
