@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/783a192c-70f8-4b5b-9a58-194cc7c88498)# Interactive AI Text Humanizer (Browser-Based)
 
+**Access directly from
+
 ![GitHub Icon](https://img.shields.io/badge/Created%20By-Destructive--Entity-4f46e5?style=for-the-badge&logo=github)
 
 This is a simple, client-side tool built with HTML, CSS, and JavaScript designed to help users identify and replace common phrases often found in AI-generated text, making it sound more natural and less robotic. It provides interactive suggestions that the user can review and approve before applying.
